@@ -1,0 +1,14 @@
+.App {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+  .button-container {
+    position: fixed;
+    bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
